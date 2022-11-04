@@ -1,6 +1,6 @@
 👋 Hello there!
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naborisk&theme=nord_dark) 
+![Naborisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=naborisk&show_icons=true&theme=tokyonight) 
 
 <!---
 naborisk/naborisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
