@@ -1,7 +1,5 @@
 ### 🦊 Hello there!
 
-![Naborisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=naborisk&show_icons=true&theme=tokyonight&count_private=true&hide=stars) 
-
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=naborisk&layout=compact&theme=tokyonight)
 
 <!---
